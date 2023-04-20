@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="profile">profile</string>
+    <string name="homework">HomeWork</string>
+    <string name="attednance">Attednance</string>
+    <string name="mis">MIS</string>
+    <string name="reports">Reports</string>
+    <string name="management">Management</string>
+    <string name="Progress">Progress</string>
+    <string name="Notification">Notification</string>
+    <string name="Recommdation">Recommdation</string>
+    <string name="Schedule">Schedule</string>
+    <string name="exam">Exam</string>
+    <string name="notification">Notification</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+
+</resources>
