@@ -77,7 +77,6 @@ public class SecondActivity extends AppCompatActivity implements CalendarAdapter
      */
     private void initWidgets() {
         calendarRecyclerView = findViewById(R.id.calendarRecyclerView);
-        monthYearText = findViewById(R.id.monthYearTV);
         mainItems = findViewById(R.id.imges);
     }
 

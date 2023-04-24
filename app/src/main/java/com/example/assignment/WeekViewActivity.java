@@ -29,7 +29,6 @@ public class WeekViewActivity extends AppCompatActivity implements CalendarAdapt
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_week_view);
 
         // Initialize the widgets
         initWidgets();
@@ -44,7 +43,6 @@ public class WeekViewActivity extends AppCompatActivity implements CalendarAdapt
     private void initWidgets()
     {
         calendarRecyclerView = findViewById(R.id.calendarRecyclerView);
-        monthYearText = findViewById(R.id.monthYearTV);
     }
 
     // Set up the week view

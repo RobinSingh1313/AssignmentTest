@@ -49,6 +49,9 @@ dependencies {
 // coroutine
     implementation("androidx.cardview:cardview:1.0.0")
 
+    implementation("com.ogaclejapan.arclayout:library:1.1.0@aar")
+    implementation ("androidx.core:core-ktx:1.6.0")
+
 
 
 
